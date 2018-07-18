@@ -1,4 +1,4 @@
-import { Saludo } from './modulos'
+import { Saludo } from './modulos.js'
 
 const saludar = Saludo('Juan')
 
